@@ -1,7 +1,7 @@
 name: "."
-title: "Living Data Tutorials"
+title: "mfeo"
 description: |
-  Living Data Tutorials
+    mfeo
 output_dir: "docs"
 navbar:
   right:
@@ -9,4 +9,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Tobi"              # add
+      href: tobi.html           # add
 output: distill::distill_article
