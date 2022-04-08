@@ -7,6 +7,15 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Tutorials"
+      menu:
+        - text: "Codyn"
+          href: lessons/2022-04-07-codyn-tutorial/codyn_tutorial.html
+        - text: "Chronic Wasting Disease"
+          href: lessons/2022-04-07-chronic-wasting-disease-tutorial/index.html
     - text: "About"
       href: about.html
+collections:
+  lessons: 
+    categories: true
 output: distill::distill_article

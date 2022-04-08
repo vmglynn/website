@@ -87,29 +87,26 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>Living Data Tutorials: About this site</title>
+  <title>Living Data Tutorials: About us</title>
 
-  <meta property="description" itemprop="description" content="Some additional details about the website"/>
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Living Data Tutorials: About this site"/>
+  <meta property="og:title" content="Living Data Tutorials: About us"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="Some additional details about the website"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Living Data Tutorials"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Living Data Tutorials: About this site"/>
-  <meta property="twitter:description" content="Some additional details about the website"/>
+  <meta property="twitter:title" content="Living Data Tutorials: About us"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description"]}},"value":[{"type":"character","attributes":{},"value":["About this site"]},{"type":"character","attributes":{},"value":["Some additional details about the website"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title"]}},"value":[{"type":"character","attributes":{},"value":["About us"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2057,7 +2054,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"About this site","description":"Some additional details about the website","authors":[]}
+{"title":"About us","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2066,9 +2063,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
 <a href="index.html" class="title">Living Data Tutorials</a>
+<input id="distill-search" class="nav-search hidden" type="text" placeholder="Search..."/>
 </div>
 <div class="nav-right">
 <a href="index.html">Home</a>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+Tutorials
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="lessons/2022-04-07-codyn-tutorial/codyn_tutorial.html">Codyn</a>
+<a href="lessons/2022-04-07-chronic-wasting-disease-tutorial/index.html">Chronic Wasting Disease</a>
+</div>
+</div>
 <a href="about.html">About</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
@@ -2079,14 +2088,47 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>About this site</h1>
+<h1>About us</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>Some additional details about the website</p></p>
+
 </div>
 
 
 <div class="d-article">
+<p>This series of tutorials were produced during a working group hosted
+by the Living Data Project, lead by Jennifer Sunday and Joey
+Bernhardt.</p>
+<p>They are based on Canadian open datasets with accompanying R code
+that can be used to teach/illustrate ecological and evolution concepts,
+and are designed to illustrate and support exploration on a variety of
+core concepts aimed for undergraduate courses in ecology and
+evolution.</p>
+<h1 id="meet-our-team">Meet our team!</h1>
+<p>These are the amazing tutorial authors:</p>
+<h4 id="joey-bernhardt">Joey Bernhardt</h4>
+<p><img src="profiles/joey-headshot-Zurich.jpg" /> Twitter: <span
+class="citation" data-cites="joeybernhardt">@joeybernhardt</span>
+Github: <span class="citation"
+data-cites="joeybernhardt">@joeybernhardt</span></p>
+<h4 id="maxime-fraser-franco">Maxime Fraser Franco</h4>
+<p>Twitter: <span class="citation"
+data-cites="MFraserFranco">@MFraserFranco</span> Github: <span
+class="citation"
+data-cites="quantitative-ecologist">@quantitative-ecologist</span></p>
+<h4 id="egor-katkov">Egor Katkov</h4>
+<p><img src="profiles/Egor.jpg" /></p>
+<p>Twitter: <a href="https://twitter.com/egorkatkov1"
+class="uri">https://twitter.com/egorkatkov1</a></p>
+<p>GitHub: <a href="https://github.com/ekatko1"
+class="uri">https://github.com/ekatko1</a></p>
+<p>ResearchGate: <a
+href="https://www.researchgate.net/profile/Egor-Katkov"
+class="uri">https://www.researchgate.net/profile/Egor-Katkov</a></p>
+<h4 id="maggie-slein">Maggie Slein</h4>
+<p><img src="profiles/maggeislein.jpg" /> Twitter: <span
+class="citation" data-cites="sleinma">@sleinma</span> Github: <span
+class="citation" data-cites="mslein">@mslein</span></p>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
