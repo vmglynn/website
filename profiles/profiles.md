@@ -27,3 +27,5 @@ ResearchGate: https://www.researchgate.net/profile/Egor-Katkov
 Maggie Slein 
 Twitter: @sleinma
 Github: @mslein
+
+Jenn Sunday Twitter: @jennsunday Github: @jennsunday website:http://jennsunday.weebly.com
