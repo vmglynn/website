@@ -7,6 +7,13 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Tutorials"
+      menu:
+        - text: "Codyn"
+          href: /cloud/project/_lessons/2022-04-07-codyn-tutorial/codyn-tutorial.html
     - text: "About"
       href: about.html
+collections:
+  lessons: 
+    categories: true
 output: distill::distill_article
