@@ -7,4 +7,8 @@ Joey Bernhardt
 Twitter: @joeybernhardt
 Github: @joeybernhardt
 
-another change
+
+Maxime Fraser Franco
+Twitter: @MFraserFranco
+Github: @quantitative-ecologist
+
