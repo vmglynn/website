@@ -10,7 +10,7 @@ navbar:
     - text: "Tutorials"
       menu:
         - text: "Codyn"
-          href: /cloud/project/_lessons/2022-04-07-codyn-tutorial/codyn_tutorial.html
+          href: _lessons/2022-04-07-codyn-tutorial/codyn-tutorial.html
     - text: "About"
       href: about.html
 collections:
