@@ -29,3 +29,6 @@ Twitter: @sleinma
 Github: @mslein
 
 Jenn Sunday Twitter: @jennsunday Github: @jennsunday website:http://jennsunday.weebly.com
+
+Bryn Wiley
+GitHub:https://github.com/BrynWiley
