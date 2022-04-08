@@ -12,3 +12,8 @@ Maxime Fraser Franco
 Twitter: @MFraserFranco
 Github: @quantitative-ecologist
 
+Victoria Marie Glynn
+Website: https://victoriamglynn.weebly.com/
+Github: @vmglynn
+Science communication Instagram: https://www.instagram.com/vmg_inpanama/
+ 
