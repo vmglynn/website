@@ -5,7 +5,7 @@
       "title": "About us",
       "author": [],
       "contents": "\nThis series of tutorials were produced during a working group hosted\nby the Living Data Project, lead by Jennifer Sunday and Joey\nBernhardt.\nThey are based on Canadian open datasets with accompanying R code\nthat can be used to teach/illustrate ecological and evolution concepts,\nand are designed to illustrate and support exploration on a variety of\ncore concepts aimed for undergraduate courses in ecology and\nevolution.\nMeet our team!\nThese are the amazing tutorial authors:\nJoey Bernhardt\n Twitter: @joeybernhardt\nGithub: @joeybernhardt\nMaxime Fraser Franco\nTwitter: @MFraserFranco Github: @quantitative-ecologist\nEgor Katkov\n\nTwitter: https://twitter.com/egorkatkov1\nGitHub: https://github.com/ekatko1\nResearchGate: https://www.researchgate.net/profile/Egor-Katkov\nMaggie Slein\n Twitter: @sleinma Github: @mslein\n\n\n\n",
-      "last_modified": "2022-04-08T23:16:48+00:00"
+      "last_modified": "2022-04-08T23:26:14+00:00"
     },
     {
       "path": "index.html",
@@ -13,7 +13,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-04-08T23:16:48+00:00"
+      "last_modified": "2022-04-08T23:26:16+00:00"
     }
   ],
   "collections": ["lessons/lessons.json"]

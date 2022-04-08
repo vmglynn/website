@@ -1,5 +1,26 @@
 [
   {
+    "path": "lessons/2022-04-07-chronic-wasting-disease-tutorial/",
+    "title": "Chronic Wasting Disease Tutorial",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Amy Forsythe",
+        "url": {}
+      },
+      {
+        "name": "Bryn Wiley",
+        "url": {}
+      }
+    ],
+    "date": "2022-04-07",
+    "categories": [],
+    "contents": "\n\n\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-04-08T23:23:52+00:00",
+    "input_file": {}
+  },
+  {
     "path": "lessons/2022-04-07-codyn-tutorial/",
     "title": "Codyn Tutorial",
     "description": "A short description of the post.",
