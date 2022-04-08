@@ -6,3 +6,7 @@ If you are a tutorial author and want to be featured on our website, please uplo
 Joey Bernhardt
 Twitter: @joeybernhardt
 Github: @joeybernhardt
+
+Maxime Fraser Franco
+Twitter: @MFraserFranco
+Github: @quantitative-ecologist
